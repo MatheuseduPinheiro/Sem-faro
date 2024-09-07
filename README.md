@@ -1,6 +1,6 @@
 # Simulação de Semáfaro
 
-Este repositório contém um código de exemplo para controlar um LED RGB utilizando um microcontrolador, como um ESP32. O código realiza transições de cores entre vermelho, verde e amarelo, exibindo mensagens no monitor serial para cada mudança de cor.
+Este projeto simula o funcionamento de um semáforo usando um LED RGB e um microcontrolador, como o ESP32. O código controla o LED para alternar entre as cores vermelho, verde e amarelo, imitando o comportamento de um semáforo real, e exibe mensagens no monitor serial para indicar cada mudança de cor.
 
 https://github.com/user-attachments/assets/1f667235-abc1-484f-90ae-bcf972126c07
 
